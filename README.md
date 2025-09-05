@@ -26,4 +26,4 @@ Instructions for installing a Python Virtual Environment on a fresh linux machin
 6) Run the application, type 'uvicorn main:app --host 0.0.0.0 --port 8000'
 7) Access the application via LAN IP, type the IP address into a web browser (ex. http://192.168.1.42:8000)
 
-Repo Link: https://github.com/Cobbs-Creek-Healthcare/Assessment-debugging
+Repo Link: https://github.com/mburton1127/CobbsCreekTestRepo
